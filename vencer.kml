@@ -36,7 +36,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle20">
+	<Style id="LineStyle20">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2012</styleUrl>
@@ -45,7 +45,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2042</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle200">
 		<LabelStyle>
 			<color>00000000</color>
@@ -144,7 +144,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2015">
+	<Style id="LineStyle2015">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2023</styleUrl>
@@ -153,7 +153,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2054</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2016">
 		<LabelStyle>
 			<color>00000000</color>
@@ -182,7 +182,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2018">
+	<Style id="LineStyle2018">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2045</styleUrl>
@@ -191,8 +191,8 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2013</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="LineStyle2019">
+	</Style>
+	<Style id="LineStyle2019">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle209</styleUrl>
@@ -201,8 +201,8 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2061</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="LineStyle202">
+	</Style>
+	<Style id="LineStyle202">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2027</styleUrl>
@@ -211,7 +211,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2044</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2020">
 		<LabelStyle>
 			<color>00000000</color>
@@ -296,7 +296,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2026">
+	<Style id="LineStyle2026">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2011</styleUrl>
@@ -305,7 +305,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2037</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2027">
 		<LabelStyle>
 			<color>00000000</color>
@@ -320,7 +320,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2028">
+	<Style id="LineStyle2028">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle200</styleUrl>
@@ -329,8 +329,8 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2062</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="LineStyle2029">
+	</Style>
+	<Style id="LineStyle2029">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2016</styleUrl>
@@ -339,8 +339,8 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2047</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="LineStyle203">
+	</Style>
+	<Style id="LineStyle203">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2024</styleUrl>
@@ -349,8 +349,8 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2058</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="LineStyle2030">
+	</Style>
+	<Style id="LineStyle2030">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle204</styleUrl>
@@ -359,8 +359,8 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2065</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="LineStyle2031">
+	</Style>
+	<Style id="LineStyle2031">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle206</styleUrl>
@@ -369,7 +369,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2010</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2032">
 		<LabelStyle>
 			<color>00000000</color>
@@ -398,7 +398,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2034">
+	<Style id="LineStyle2034">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2032</styleUrl>
@@ -407,8 +407,8 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2052</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="LineStyle2035">
+	</Style>
+	<Style id="LineStyle2035">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2020</styleUrl>
@@ -417,8 +417,8 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2056</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="LineStyle2036">
+	</Style>
+	<Style id="LineStyle2036">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2021</styleUrl>
@@ -427,7 +427,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2055</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2037">
 		<LabelStyle>
 			<color>00000000</color>
@@ -456,7 +456,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2039">
+	<Style id="LineStyle2039">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle205</styleUrl>
@@ -465,7 +465,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2064</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle204">
 		<LabelStyle>
 			<color>00000000</color>
@@ -480,7 +480,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2040">
+	<Style id="LineStyle2040">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2060</styleUrl>
@@ -489,7 +489,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2063</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2041">
 		<LabelStyle>
 			<color>00000000</color>
@@ -518,7 +518,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2043">
+	<Style id="LineStyle2043">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2014</styleUrl>
@@ -527,7 +527,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2050</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2044">
 		<LabelStyle>
 			<color>00000000</color>
@@ -556,7 +556,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2046">
+	<Style id="LineStyle2046">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2033</styleUrl>
@@ -565,7 +565,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2017</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2047">
 		<LabelStyle>
 			<color>00000000</color>
@@ -594,7 +594,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2049">
+	<Style id="LineStyle2049">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2025</styleUrl>
@@ -603,7 +603,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2022</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle205">
 		<LabelStyle>
 			<color>00000000</color>
@@ -632,7 +632,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2051">
+	<Style id="LineStyle2051">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle2041</styleUrl>
@@ -641,7 +641,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2048</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2052">
 		<LabelStyle>
 			<color>00000000</color>
@@ -712,7 +712,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2057">
+	<Style id="LineStyle2057">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle208</styleUrl>
@@ -721,7 +721,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle2053</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle2058">
 		<LabelStyle>
 			<color>00000000</color>
@@ -736,7 +736,7 @@
 			<outline>0</outline>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="LineStyle2059">
+	<Style id="LineStyle2059">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#LineStyle207</styleUrl>
@@ -745,7 +745,7 @@
 			<key>highlight</key>
 			<styleUrl>#LineStyle201</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="LineStyle206">
 		<LabelStyle>
 			<color>00000000</color>
@@ -899,7 +899,7 @@
 			<color>ff00ffff</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="m_ylw-pushpin">
+	<Style id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#s_ylw-pushpin</styleUrl>
@@ -908,8 +908,8 @@
 			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin0">
+	</Style>
+	<Style id="m_ylw-pushpin0">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#s_ylw-pushpin0</styleUrl>
@@ -918,8 +918,8 @@
 			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
 		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin28">
+	</Style>
+	<Style id="msn_ylw-pushpin28">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin28</styleUrl>
@@ -928,7 +928,7 @@
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin28</styleUrl>
 		</Pair>
-	</StyleMap>
+	</Style>
 	<Style id="s_ylw-pushpin">
 		<IconStyle>
 			<color>ffff0000</color>
@@ -105961,7 +105961,7 @@
 		<name>Frac Pits</name>
 		<Document>
 			<name>North Midland Frac Ponds.kmz</name>
-			<StyleMap id="m_ylw-pushpin0000">
+			<Style id="m_ylw-pushpin0000">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin0200</styleUrl>
@@ -105970,7 +105970,7 @@
 					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl12</styleUrl>
 				</Pair>
-			</StyleMap>
+			</Style>
 			<Style id="s_ylw-pushpin0200">
 				<IconStyle>
 					<scale>1.1</scale>
@@ -106012,7 +106012,7 @@
 		</Document>
 		<Document>
 			<name>South Stanton Frac Ponds.kmz</name>
-			<StyleMap id="m_ylw-pushpin0110">
+			<Style id="m_ylw-pushpin0110">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin010</styleUrl>
@@ -106021,8 +106021,8 @@
 					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl3001</styleUrl>
 				</Pair>
-			</StyleMap>
-			<StyleMap id="m_ylw-pushpin01100">
+			</Style>
+			<Style id="m_ylw-pushpin01100">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin0100</styleUrl>
@@ -106031,7 +106031,7 @@
 					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl30010</styleUrl>
 				</Pair>
-			</StyleMap>
+			</Style>
 			<Style id="s_ylw-pushpin010">
 				<IconStyle>
 					<scale>1.1</scale>
@@ -106108,7 +106108,7 @@
 		</Document>
 		<Document>
 			<name>NE Midkiff Frac Pits.kmz</name>
-			<StyleMap id="m_ylw-pushpin00">
+			<Style id="m_ylw-pushpin00">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin00</styleUrl>
@@ -106117,8 +106117,8 @@
 					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
 				</Pair>
-			</StyleMap>
-			<StyleMap id="m_ylw-pushpin0111">
+			</Style>
+			<Style id="m_ylw-pushpin0111">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin01000</styleUrl>
@@ -106127,8 +106127,8 @@
 					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl3000</styleUrl>
 				</Pair>
-			</StyleMap>
-			<StyleMap id="m_ylw-pushpin0300">
+			</Style>
+			<Style id="m_ylw-pushpin0300">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin51</styleUrl>
@@ -106137,7 +106137,7 @@
 					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl40</styleUrl>
 				</Pair>
-			</StyleMap>
+			</Style>
 			<Style id="s_ylw-pushpin00">
 				<IconStyle>
 					<scale>1.1</scale>
@@ -106266,7 +106266,7 @@
 		</Document>
 		<Document>
 			<name>SE Midkiff Frac Ponds.kmz</name>
-			<StyleMap id="m_ylw-pushpin03">
+			<Style id="m_ylw-pushpin03">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin12</styleUrl>
@@ -106275,7 +106275,7 @@
 					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
 				</Pair>
-			</StyleMap>
+			</Style>
 			<Style id="s_ylw-pushpin12">
 				<IconStyle>
 					<scale>1.1</scale>
@@ -106317,7 +106317,7 @@
 		</Document>
 		<Document>
 			<name>West Biglake Frac Ponds.kmz</name>
-			<StyleMap id="m_ylw-pushpin00000">
+			<Style id="m_ylw-pushpin00000">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin02000</styleUrl>
@@ -106326,7 +106326,7 @@
 					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl120</styleUrl>
 				</Pair>
-			</StyleMap>
+			</Style>
 			<Style id="s_ylw-pushpin02000">
 				<IconStyle>
 					<scale>1.1</scale>
@@ -106385,7 +106385,7 @@
 		</Document>
 		<Document>
 			<name>E Rankin Frac Ponds.kmz</name>
-			<StyleMap id="msn_ylw-pushpin30">
+			<Style id="msn_ylw-pushpin30">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#sn_ylw-pushpin002</styleUrl>
@@ -106394,7 +106394,7 @@
 					<key>highlight</key>
 					<styleUrl>#sh_ylw-pushpin02</styleUrl>
 				</Pair>
-			</StyleMap>
+			</Style>
 			<Style id="sh_ylw-pushpin02">
 				<IconStyle>
 					<scale>1.3</scale>
