@@ -18980,7 +18980,7 @@
 			<name>SE Williams #4 SWD</name>
 			<styleUrl>#m_ylw-pushpin0</styleUrl>
 			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
+				
 				<coordinates>-101.5456174120382,31.52271265663986,0</coordinates>
 			</Point>
 		</Placemark>
@@ -18997,7 +18997,7 @@
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
+				
 				<coordinates>-101.7464088119155,31.78786685327986,0</coordinates>
 			</Point>
 		</Placemark>
@@ -19014,7 +19014,7 @@
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
+				
 				<coordinates>-101.7429766440409,31.77738683163391,0</coordinates>
 			</Point>
 		</Placemark>
