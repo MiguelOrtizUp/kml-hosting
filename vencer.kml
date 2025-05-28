@@ -1002,7 +1002,7 @@
 				<heading>-0.0001189556839249126</heading>
 				<tilt>44.99881817745422</tilt>
 				<range>1178.36307692644</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
@@ -18993,7 +18993,7 @@
 				<heading>0.009329485863697293</heading>
 				<tilt>19.0255729742514</tilt>
 				<range>1910.681885919071</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
@@ -19010,7 +19010,7 @@
 				<heading>0.01012357133162747</heading>
 				<tilt>19.02555700983454</tilt>
 				<range>1905.232424474541</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
@@ -271599,7 +271599,7 @@
 						<heading>-3.900217768982606</heading>
 						<tilt>27.11209988638101</tilt>
 						<range>1074.586574055725</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0000</styleUrl>
 					<Point>
@@ -271678,7 +271678,7 @@
 						<heading>-3.881610183871994</heading>
 						<tilt>26.90009053041784</tilt>
 						<range>964.8465756857265</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0110</styleUrl>
 					<Point>
@@ -271695,7 +271695,7 @@
 						<heading>-3.881610183871994</heading>
 						<tilt>26.90009053041784</tilt>
 						<range>964.8465756857265</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin01100</styleUrl>
 					<Point>
@@ -271802,7 +271802,7 @@
 						<heading>-3.859580513803212</heading>
 						<tilt>24.60412982206258</tilt>
 						<range>1780.809095963156</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0111</styleUrl>
 					<Point>
@@ -271819,7 +271819,7 @@
 						<heading>-3.859580513803212</heading>
 						<tilt>24.60412982206258</tilt>
 						<range>1780.809095963156</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0300</styleUrl>
 					<Point>
@@ -271836,7 +271836,7 @@
 						<heading>-3.835480211473795</heading>
 						<tilt>9.774306370994609</tilt>
 						<range>1145.562823817461</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0300</styleUrl>
 					<Point>
@@ -271853,7 +271853,7 @@
 						<heading>-3.693592351752968</heading>
 						<tilt>26.70300223732468</tilt>
 						<range>907.4754178507355</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin00</styleUrl>
 					<Point>
@@ -271904,7 +271904,7 @@
 						<heading>-3.663970247915874</heading>
 						<tilt>30.00515016010788</tilt>
 						<range>1146.770968596323</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin03</styleUrl>
 					<Point>
@@ -271955,7 +271955,7 @@
 						<heading>-3.697713595797455</heading>
 						<tilt>26.22776064117112</tilt>
 						<range>1069.487299634699</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin00000</styleUrl>
 					<Point>
@@ -271972,7 +271972,7 @@
 						<heading>-3.697713595797455</heading>
 						<tilt>26.22776064117112</tilt>
 						<range>1069.487299634699</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin00000</styleUrl>
 					<Point>
@@ -272029,7 +272029,7 @@
 						<heading>-0.003597187369470686</heading>
 						<tilt>28.41994203362689</tilt>
 						<range>1807.684857003392</range>
-						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						
 					</LookAt>
 					<styleUrl>#msn_ylw-pushpin30</styleUrl>
 					<Point>
