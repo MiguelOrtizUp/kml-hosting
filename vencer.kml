@@ -1006,7 +1006,7 @@
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
+				
 				<coordinates>-101.8454129646072,31.16580831503508,0</coordinates>
 			</Point>
 		</Placemark>
@@ -18980,7 +18980,7 @@
 			<name>SE Williams #4 SWD</name>
 			<styleUrl>#m_ylw-pushpin0</styleUrl>
 			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
+				
 				<coordinates>-101.5456174120382,31.52271265663986,0</coordinates>
 			</Point>
 		</Placemark>
@@ -18997,7 +18997,7 @@
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
+				
 				<coordinates>-101.7464088119155,31.78786685327986,0</coordinates>
 			</Point>
 		</Placemark>
@@ -19014,7 +19014,7 @@
 			</LookAt>
 			<styleUrl>#m_ylw-pushpin</styleUrl>
 			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
+				
 				<coordinates>-101.7429766440409,31.77738683163391,0</coordinates>
 			</Point>
 		</Placemark>
@@ -271603,7 +271603,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0000</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-102.0817090308517,32.23459965869396,0</coordinates>
 					</Point>
 				</Placemark>
@@ -271682,7 +271682,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0110</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.7731959294936,31.91761961537931,0</coordinates>
 					</Point>
 				</Placemark>
@@ -271699,7 +271699,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin01100</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.7779843257895,31.91531771764795,0</coordinates>
 					</Point>
 				</Placemark>
@@ -271806,7 +271806,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0111</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.7292702767113,31.75787928390502,0</coordinates>
 					</Point>
 				</Placemark>
@@ -271823,7 +271823,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0300</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.7316272034782,31.76008525116185,0</coordinates>
 					</Point>
 				</Placemark>
@@ -271840,7 +271840,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin0300</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.7311867685812,31.7573199005458,0</coordinates>
 					</Point>
 				</Placemark>
@@ -271857,7 +271857,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin00</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.6288946296355,31.80795110473635,0</coordinates>
 					</Point>
 				</Placemark>
@@ -271908,7 +271908,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin03</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.5555725383684,31.51778925300326,0</coordinates>
 					</Point>
 				</Placemark>
@@ -271959,7 +271959,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin00000</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.6908325669961,31.27153374791607,0</coordinates>
 					</Point>
 				</Placemark>
@@ -271976,7 +271976,7 @@
 					</LookAt>
 					<styleUrl>#m_ylw-pushpin00000</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.6890103769749,31.27142688275301,0</coordinates>
 					</Point>
 				</Placemark>
@@ -272033,7 +272033,7 @@
 					</LookAt>
 					<styleUrl>#msn_ylw-pushpin30</styleUrl>
 					<Point>
-						<gx:drawOrder>1</gx:drawOrder>
+						
 						<coordinates>-101.8688044346542,31.19730651283142,0</coordinates>
 					</Point>
 				</Placemark>
