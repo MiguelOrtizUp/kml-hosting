@@ -993,7 +993,7 @@
 		<name>Vencer SWDs / Injections</name>
 		
 		<description>WELL_SHLs</description>
-		<Placemark>
+		<Placemark id="ID_40020">
 			<name>University 23 SWD #1D</name>
 			<LookAt>
 				<longitude>-101.8478303896802</longitude>
@@ -105991,7 +105991,7 @@
 			</Style>
 			<Folder>
 				<name>North Midland Frac Ponds</name>
-				<Placemark>
+				<Placemark id="ID_40000">
 					<name>Scharbauer (1.7MM)</name>
 					<LookAt>
 						<longitude>-102.0808193997292</longitude>
@@ -106070,7 +106070,7 @@
 			</Style>
 			<Folder>
 				<name>South Stanton Frac Ponds</name>
-				<Placemark>
+				<Placemarkid="ID_40001">
 					<name>Boone-Coffee #2 (975k)</name>
 					<LookAt>
 						<longitude>-101.7747844720792</longitude>
@@ -106087,7 +106087,7 @@
 						<coordinates>-101.7731959294936,31.91761961537931,0</coordinates>
 					</Point>
 				</Placemark>
-				<Placemark>
+				<Placemarkid="ID_40002"> 
 					<name>Boone-Coffee #1 (250K)</name>
 					<LookAt>
 						<longitude>-101.7747844720792</longitude>
@@ -106194,7 +106194,7 @@
 			</Style>
 			<Folder>
 				<name>NE Midkiff Frac Pits</name>
-				<Placemark>
+				<Placemark id="ID_40003">
 					<name>Cook Produced Water Pit #1 (295K)</name>
 					<LookAt>
 						<longitude>-101.7289517054448</longitude>
@@ -106211,7 +106211,7 @@
 						<coordinates>-101.7292702767113,31.75787928390502,0</coordinates>
 					</Point>
 				</Placemark>
-				<Placemark>
+				<Placemark id="ID_40004">
 					<name>Cook Fresh Water Pit #3 (750K)</name>
 					<LookAt>
 						<longitude>-101.7289517054448</longitude>
@@ -106228,7 +106228,7 @@
 						<coordinates>-101.7316272034782,31.76008525116185,0</coordinates>
 					</Point>
 				</Placemark>
-				<Placemark>
+				<Placemark id="ID_40005">
 					<name>Cook Fresh Water Pit #2 (1100k)</name>
 					<LookAt>
 						<longitude>-101.7284020449109</longitude>
@@ -106245,7 +106245,7 @@
 						<coordinates>-101.7311867685812,31.7573199005458,0</coordinates>
 					</Point>
 				</Placemark>
-				<Placemark>
+				<Placemark id="ID_40006">
 					<name>Horn Books Water Pit (1400k)</name>
 					<LookAt>
 						<longitude>-101.6288946296355</longitude>
@@ -106296,7 +106296,7 @@
 			</Style>
 			<Folder>
 				<name>SE Midkiff Frac Ponds</name>
-				<Placemark>
+				<Placemark id="ID_40007">
 					<name>Red Hott Cat 700k Frac Pond</name>
 					<LookAt>
 						<longitude>-101.555967693921</longitude>
@@ -106347,7 +106347,7 @@
 			</Style>
 			<Folder>
 				<name>West Biglake Frac Ponds</name>
-				<Placemark>
+				<Placemark id="ID_40008">
 					<name>35-19 West (550K)</name>
 					<LookAt>
 						<longitude>-101.6883463110405</longitude>
@@ -106364,7 +106364,7 @@
 						<coordinates>-101.6908325669961,31.27153374791607,0</coordinates>
 					</Point>
 				</Placemark>
-				<Placemark>
+				<Placemark id="ID_40009">
 					<name>35-19 East (875K)</name>
 					<LookAt>
 						<longitude>-101.6883463110405</longitude>
@@ -106421,7 +106421,7 @@
 			</Style>
 			<Folder>
 				<name>E Rankin Frac Ponds</name>
-				<Placemark>
+				<Placemark id="ID_40010">
 					<name>UL 4-12-3 Frac Pond (1.4 MMB)</name>
 					<LookAt>
 						<longitude>-101.8629952349522</longitude>
