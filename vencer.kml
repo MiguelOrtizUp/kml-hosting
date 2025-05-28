@@ -106071,7 +106071,7 @@
 			</Style>
 			<Folder>
 				<name>South Stanton Frac Ponds</name>
-				<Placemarkid="ID_40001">
+				<Placemark id="ID_40001">
 					<name>Boone-Coffee #2 (975k)</name>
 					<LookAt>
 						<longitude>-101.7747844720792</longitude>
@@ -106088,7 +106088,7 @@
 						<coordinates>-101.7731959294936,31.91761961537931,0</coordinates>
 					</Point>
 				</Placemark>
-				<Placemarkid="ID_40002"> 
+				<Placemark id="ID_40002"> 
 					<name>Boone-Coffee #1 (250K)</name>
 					<LookAt>
 						<longitude>-101.7747844720792</longitude>
