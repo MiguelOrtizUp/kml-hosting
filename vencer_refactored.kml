@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Vencer Water Infrastructure (Refactored)</name>
+
+  <!-- Consolidated Styles -->
+  <Style id="pipeline-orange">
+    <LineStyle>
+      <color>ffff7000</color> <!-- Orange -->
+      <width>2</width>
+    </LineStyle>
+  </Style>
+  <Style id="pipeline-orange-red">
+    <LineStyle>
+      <color>ffff5500</color> <!-- Orange-Red -->
+      <width>3</width>
+    </LineStyle>
+  </Style>
+  <Style id="pipeline-blue">
+    <LineStyle>
+      <color>ffff0000</color> <!-- Blue -->
+      <width>2</width>
+    </LineStyle>
+  </Style>
+  <Style id="pushpin-yellow">
+    <IconStyle>
+      <color>ffffff00</color>
+      <scale>1.2</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+
+  <!-- Example Placemarks (update coordinates as needed) -->
+  <Placemark>
+    <name>CBR to Halfmann SWD 8" SDR7 Pipeline</name>
+    <description><![CDATA[
+      <table>
+        <tr><td>Name</td><td>CBR to Halfmann SWD 8" SDR7 Pipeline</td></tr>
+        <tr><td>Type</td><td>&lt;Null&gt;</td></tr>
+        <tr><td>Area</td><td>NE MIDKIFF</td></tr>
+      </table>
+    ]]></description>
+    <styleUrl>#pipeline-orange</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        <!-- Replace with actual coordinates -->
+        -101.7206702559999,31.76378938715511,0 -101.7208751649999,31.76372063715509,0 -101.7217694399999,31.7634033511551,0 -101.722054385,31.76329769815512,0 -101.722139538,31.76324722015506,0 -101.7221535909999,31.7632028621551,0 -101.722132207,31.76313090115511,0 -101.720780205,31.75903220815515,0 -101.720710594,31.75880953115514,0 -101.720741827,31.75875452815515,0 -101.720844614,31.75870583715515,0 -101.720963556,31.75863926415517,0 -101.72094356,31.75859111915518,0 -101.718188271,31.75016061315526,0 -101.7177993879999,31.7490165471553,0 -101.7177738569999,31.74889152415529,0 -101.717703595,31.74883862415532,0 -101.717616315,31.74882950115528,0 -101.712247857,31.74999792015527,0 -101.711968009,31.7500564911553,0 -101.7118483099999,31.75008290315529,0 -101.711694487,31.75005590715526,0 
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+  <Placemark>
+    <name>Calverley Lane SWD Tie In 8" SDR 7 Poly</name>
+    <description><![CDATA[
+      <table>
+        <tr><td>Name</td><td>Calverley Lane SWD Tie In 8" SDR 7 Poly</td></tr>
+        <tr><td>Type</td><td>&lt;Null&gt;</td></tr>
+        <tr><td>Area</td><td>NE MIDKIFF</td></tr>
+      </table>
+    ]]></description>
+    <styleUrl>#pipeline-orange</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        <!-- Replace with actual coordinates -->
+        -101.748000,31.788000,0 -101.749000,31.789000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+  <Placemark>
+    <name>Teele 2" poly SDR11 water line to HC</name>
+    <description><![CDATA[
+      <table>
+        <tr><td>Name</td><td>Teele 2" poly SDR11 water line to HC</td></tr>
+        <tr><td>Type</td><td>&lt;Null&gt;</td></tr>
+        <tr><td>Area</td><td>NE MIDKIFF</td></tr>
+      </table>
+    ]]></description>
+    <styleUrl>#pipeline-blue</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        <!-- Replace with actual coordinates -->
+        -101.750000,31.790000,0 -101.751000,31.791000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+  <Placemark>
+    <name>Harris-Hutchison 4" SDR11 SWD Transfer Line</name>
+    <description><![CDATA[
+      <table>
+        <tr><td>Name</td><td>Harris-Hutchison 4" SDR11 SWD Transfer Line</td></tr>
+        <tr><td>Type</td><td>&lt;Null&gt;</td></tr>
+        <tr><td>Area</td><td>NE MIDKIFF</td></tr>
+      </table>
+    ]]></description>
+    <styleUrl>#pipeline-orange-red</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        <!-- Replace with actual coordinates -->
+        -101.717738566,31.74886655315533,0 -101.721217157,31.74633460815533,0 -101.721351408,31.74618706515534,0 -101.721367749,31.74608975915538,0 -101.721318687,31.74595134615538,0 
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+  <Placemark>
+    <name>Harris-Cook 4" SDR11 SWD Transfer Line</name>
+    <description><![CDATA[
+      <table>
+        <tr><td>Name</td><td>Harris-Cook 4" SDR11 SWD Transfer Line</td></tr>
+        <tr><td>Type</td><td>&lt;Null&gt;</td></tr>
+        <tr><td>Area</td><td>NE MIDKIFF</td></tr>
+      </table>
+    ]]></description>
+    <styleUrl>#pipeline-orange-red</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        <!-- Replace with actual coordinates -->
+        -101.754000,31.794000,0 -101.755000,31.795000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+  <Placemark>
+    <name>10" poly SDR9 trunk line from Battery to main trunk line</name>
+    <description><![CDATA[
+      <table>
+        <tr><td>Name</td><td>10" poly SDR9 trunk line from Battery to main trunk line</td></tr>
+        <tr><td>Type</td><td>&lt;Null&gt;</td></tr>
+        <tr><td>Area</td><td>NE MIDKIFF</td></tr>
+      </table>
+    ]]></description>
+    <styleUrl>#pipeline-orange</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        <!-- Replace with actual coordinates -->
+        -101.756000,31.796000,0 -101.757000,31.797000,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+  <!-- Example Point Placemark -->
+  <Placemark>
+    <name>Example Water Pit</name>
+    <description><![CDATA[
+      <table>
+        <tr><td>Name</td><td>Example Water Pit</td></tr>
+        <tr><td>Type</td><td>Pit</td></tr>
+        <tr><td>Area</td><td>NE MIDKIFF</td></tr>
+      </table>
+    ]]></description>
+    <styleUrl>#pushpin-yellow</styleUrl>
+    <Point>
+      <coordinates>-101.758000,31.798000,0</coordinates>
+    </Point>
+  </Placemark>
+
+</Document>
+</kml>
