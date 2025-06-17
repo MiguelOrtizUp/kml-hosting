@@ -3,16 +3,16 @@
 <Document>
   <name>Vencer Water Infrastructure (Refactored)</name>
 
-  <!-- Consolidated Styles -->
+    <!-- Consolidated Styles -->
   <Style id="pipeline-orange">
     <LineStyle>
-      <color>ffff7000</color> <!-- Orange -->
+      <color>ff00a5ff</color> <!-- Orange -->
       <width>2</width>
     </LineStyle>
   </Style>
   <Style id="pipeline-orange-red">
     <LineStyle>
-      <color>ffff5500</color> <!-- Orange-Red -->
+      <color>ff0055ff</color> <!-- Orange-Red -->
       <width>3</width>
     </LineStyle>
   </Style>
@@ -24,7 +24,7 @@
   </Style>
   <Style id="pushpin-yellow">
     <IconStyle>
-      <color>ffffff00</color>
+      <color>ffff0000</color>
       <scale>1.2</scale>
       <Icon>
         <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
